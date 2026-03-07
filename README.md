@@ -109,14 +109,6 @@ MongoDB • Python
 
 ---
 
-# 📈 GitHub Stats
-
-![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanAysan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanAysan&layout=compact&theme=tokyonight)
-
----
-
 # 📫 Connect With Me
 
 💼 LinkedIn  
