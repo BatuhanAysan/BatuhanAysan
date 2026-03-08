@@ -22,10 +22,11 @@ I enjoy combining **data engineering, machine learning, and cloud infrastructure
 - Automating data ingestion and processing
 - Scalable model training and inference systems
 
-🔹 **Data Analytics**
-- Data exploration and insight generation
-- Interactive dashboards
-- Business intelligence workflows
+🔹 **AI Systems**
+- LLM-powered engineering tools
+- Multi-agent AI architectures
+- Retrieval-Augmented Generation (RAG)
+- AI-assisted troubleshooting systems
 
 ---
 
@@ -76,6 +77,28 @@ Key features:
 **Tech Stack**
 
 Python • AWS CDK • SageMaker • Lambda • S3
+
+---
+
+## 🤖 AI-Powered Maintenance Assistant
+
+Built an **AI-powered maintenance assistant** designed to support engineers and technicians in diagnosing equipment issues and generating maintenance procedures from complex technical documentation.
+
+The system processes **industrial equipment manuals (PDF)** and uses a **multi-agent AI architecture** where specialized agents collaborate to extract knowledge, analyze problems, and generate structured troubleshooting workflows.
+
+A lightweight **HTMX-based interface** allows engineers to upload manuals, query the system, and generate maintenance procedures without relying on heavy frontend frameworks.
+
+Key features:
+
+- Multi-agent architecture for collaborative AI reasoning
+- Automated extraction of maintenance knowledge from technical manuals
+- AI-generated troubleshooting and maintenance workflows
+- Engineer and operator specific assistance interfaces
+- Retrieval-Augmented Generation (RAG) for documentation-based responses
+
+**Tech Stack**
+
+TypeScript • Node.js • Express • HTMX • Gemini AI • Multi-Agent Systems • RAG • PDF Parsing
 
 ---
 
